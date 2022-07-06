@@ -1,2 +1,2 @@
-# JavaScript-Games: Rock-paper-scissors
+# JavaScript-Games
 Here I made some games using JavaScriipt
